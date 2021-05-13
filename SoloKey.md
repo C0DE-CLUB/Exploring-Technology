@@ -1,3 +1,5 @@
+![SoloKey Solo V2](https://i.imgur.com/Vu0NK3w.png)
+
 Take security into your own hands, written in RUST. 
 
 RUST is a modern programming language for systems.
